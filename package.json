@@ -28,6 +28,8 @@
     "fix": "gts fix",
     "prepare": "yarn.cmd run compile",
     "pretest": "yarn.cmd run compile",
-    "posttest": "yarn.cmd run lint"
+    "posttest": "yarn.cmd run lint",
+    "build": "tsc",
+    "vercel-build": ""
   }
 }
