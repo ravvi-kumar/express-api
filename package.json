@@ -25,7 +25,6 @@
     "lint": "gts lint",
     "clean": "gts clean",
     "compile": "tsc",
-    "fix": "gts fix",
-    "vercel-build": ""
+    "fix": "gts fix"
   }
 }
